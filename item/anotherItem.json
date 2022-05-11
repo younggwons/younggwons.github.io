@@ -3,120 +3,140 @@
         "id" : 3,
         "title" : "Converse HT Green",
         "content" : "Born in US",
-        "price" : 89000
+        "price" : 89000,
+        "classify" : "man"
     },
 
     {
         "id" : 4,
         "title" : "Converse DarkBlue",
         "content" : "Born in US",
-        "price" : 89000
+        "price" : 89000,
+        "classify" : "man"
     },
 
     {
         "id" : 5,
         "title" : "Manila S",
         "content" : "Born in US",
-        "price" : 74900
+        "price" : 74900,
+        "classify" : "man"
+
     },
     {
         "id" : 6,
         "title" : "Blue Mon",
         "content" : "Born in Canada",
-        "price" : 56000
+        "price" : 56000,
+        "classify" : "man"
     },
 
     {
         "id" : 7,
         "title" : "DarkWhite S1",
         "content" : "Born in Korea",
-        "price" : 98000
+        "price" : 98000,
+        "classify" : "man"
     },
 
     {
         "id" : 8,
         "title" : "Nike Darkgreen",
         "content" : "Born in US",
-        "price" : 154000
+        "price" : 154000,
+        "classify" : "man"
+        
     },
     {
         "id" : 9,
         "title" : "Jobi Brown",
         "content" : "Born in US",
-        "price" : 69000
+        "price" : 69000,
+        "classify" : "man"
     },
 
     {
         "id": 10,
         "title" : "Spoty RedCar",
         "content" : "Born in Korea",
-        "price" : 110000
+        "price" : 110000,
+        "classify" : "man"
     },
 
     {
         "id" : 11,
         "title" : "KidsShoe green",
         "content" : "Born in Korea",
-        "price" : 35000
+        "price" : 35000,
+        "classify" : "kid"
     },
     {
         "id" : 12,
         "title" : "KidsShoe Skyblue&Pink",
         "content" : "Born in Korea",
-        "price" : 27000
+        "price" : 27000,
+        "classify" : "kid"
     },
 
     {
         "id" : 13,
         "title" : "KidsShoe Adidas SuperStar",
         "content" : "Born in US",
-        "price" : 55000
+        "price" : 55000,
+        "classify" : "kid"
     },
 
     {
         "id" : 14,
         "title" : "Pinky Star",
         "content" : "Born in Japan",
-        "price" : 53000
+        "price" : 53000,
+        "classify" : "woman"
     },
     {
         "id" : 15,
         "title" : "Nike White B",
         "content" : "Born in US",
-        "price" : 110000
+        "price" : 110000,
+        "classify" : "man"
     },
 
     {
         "id" : 16,
         "title" : "High heel Red",
         "content" : "Born in Korea",
-        "price" : 68000
+        "price" : 68000,
+        "classify" : "woman"
     },
 
     {
         "id" : 17,
         "title" : "HikeShoes Pink",
         "content" : "Born in China",
-        "price" : 39000
+        "price" : 39000,
+        "classify" : "woman"
     },
     {
         "id" : 18,
         "title" : "Converse Grey A",
         "content" : "Born in US",
-        "price" : 120000
+        "price" : 120000,
+        "classify" : "woman"
     },
 
     {
         "id" : 19,
         "title" : "Boots DarkBlue",
         "content" : "Born in Korea",
-        "price" : 82000
+        "price" : 82000,
+        "classify" : "woman"
     },
 
     {
         "id" : 20,
         "title" : "Converse HT BlueRedMix",
         "content" : "Born in US",
-        "price" : 230000
+        "price" : 230000,
+        "classify" : "woman"
     }
 ]
